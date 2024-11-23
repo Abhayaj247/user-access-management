@@ -74,7 +74,7 @@ A modern web-based system for managing user access to software applications with
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-access-management.git
+   git clone https://github.com/Abhayaj247/user-access-management.git
    cd user-access-management
    ```
 
