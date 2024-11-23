@@ -230,12 +230,7 @@ After installation, use these credentials:
 - Admin:
   - Username: admin
   - Password: admin123
-- Manager:
-  - Username: manager
-  - Password: manager123
-- Employee:
-  - Username: employee
-  - Password: employee123
+
 
 **Important:** Change these passwords immediately after first login.
 
