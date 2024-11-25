@@ -55,3 +55,7 @@ work/
 # OS specific files
 .DS_Store
 Thumbs.db
+
+# Database initialization files
+init-db.bat
+init_db.bat
